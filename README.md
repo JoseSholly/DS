@@ -1,1 +1,1 @@
-# Pythom documentation
+# Python documentation
